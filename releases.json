@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "updates": [
+    {
+      "url": "releases/0.1.26/78eacc38e07cdf6ff08f1c7ddee225c12cb1126be16dc3a7cce6807cd31a28f1.zip",
+      "sha256": "78eacc38e07cdf6ff08f1c7ddee225c12cb1126be16dc3a7cce6807cd31a28f1",
+      "version": "0.1.26",
+      "size": 57314847,
+      "type": "zip"
+    }
+  ]
+}
