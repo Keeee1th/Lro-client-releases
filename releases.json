@@ -2,10 +2,10 @@
   "schema": 1,
   "updates": [
     {
-      "url": "releases/0.1.26/78eacc38e07cdf6ff08f1c7ddee225c12cb1126be16dc3a7cce6807cd31a28f1.zip",
-      "sha256": "78eacc38e07cdf6ff08f1c7ddee225c12cb1126be16dc3a7cce6807cd31a28f1",
-      "version": "0.1.26",
-      "size": 57314847,
+      "url": "releases/0.1.27/5152e8c3b915b45dda8cb2cb9a1ebc5e05fa6f23206da0b0b8313300d024032d.zip",
+      "sha256": "5152e8c3b915b45dda8cb2cb9a1ebc5e05fa6f23206da0b0b8313300d024032d",
+      "version": "0.1.27",
+      "size": 57314854,
       "type": "zip"
     }
   ]
