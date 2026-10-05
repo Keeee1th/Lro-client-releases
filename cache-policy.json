@@ -14,6 +14,10 @@
       "cache-control": "public, max-age=31536000, immutable"
     },
     {
+      "path": "releases/0.1.28/4a9843d141d59e7a5c9ee0f2c77c12f56efafbaef0f9127a3a712e787422e9aa.zip",
+      "cache-control": "public, max-age=31536000, immutable"
+    },
+    {
       "path": "updates.json",
       "cache-control": "no-cache"
     }
