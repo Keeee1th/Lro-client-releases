@@ -2,10 +2,17 @@
   "schema": 1,
   "updates": [
     {
-      "url": "releases/0.1.30/0f5113db6ff310438caddf1a0e60f6a40fa96fbabf28f641c479729d8d43455a.zip",
-      "sha256": "0f5113db6ff310438caddf1a0e60f6a40fa96fbabf28f641c479729d8d43455a",
+      "url": "releases/0.1.31/39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb.zip",
+      "sha256": "39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb",
+      "version": "0.1.31",
+      "size": 58269994,
+      "type": "zip"
+    },
+    {
+      "url": "releases/0.1.30/39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb.zip",
+      "sha256": "39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb",
       "version": "0.1.30",
-      "size": 57437559,
+      "size": 58269994,
       "type": "zip"
     },
     {

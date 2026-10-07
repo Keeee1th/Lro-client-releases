@@ -22,7 +22,11 @@
       "cache-control": "public, max-age=31536000, immutable"
     },
     {
-      "path": "releases/0.1.30/0f5113db6ff310438caddf1a0e60f6a40fa96fbabf28f641c479729d8d43455a.zip",
+      "path": "releases/0.1.30/39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb.zip",
+      "cache-control": "public, max-age=31536000, immutable"
+    },
+    {
+      "path": "releases/0.1.31/39608aed9077d2b1c8394d40ac5e0fa5ec3f553e2896c0a43293946feef0bdeb.zip",
       "cache-control": "public, max-age=31536000, immutable"
     },
     {
