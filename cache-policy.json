@@ -50,11 +50,7 @@
       "cache-control": "public, max-age=31536000, immutable"
     },
     {
-      "path": "releases/0.1.38/a456c1bf6296f0a8dbe6af8ce114dc913a88f69b5241937c8b074f7240b4779a.json",
-      "cache-control": "public, max-age=31536000, immutable"
-    },
-    {
-      "path": "releases/0.1.38/d7cc6b650d98612aab3b5aaa777f6ec0ce71b6679a8b1ccfd307348fed050650.patch.zip",
+      "path": "releases/0.1.39/0de01254bfcdf1e35144f99ec3dd4771c71abc735e363787fc95c3ea2feac24c.zip",
       "cache-control": "public, max-age=31536000, immutable"
     },
     {
