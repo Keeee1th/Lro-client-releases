@@ -2,6 +2,13 @@
   "schema": 1,
   "updates": [
     {
+      "url": "releases/0.1.40/4471074076c9fd3138697c5bd3a6fb4f0649a2c2a17a55951f91feb22404a31f.zip",
+      "sha256": "4471074076c9fd3138697c5bd3a6fb4f0649a2c2a17a55951f91feb22404a31f",
+      "version": "0.1.40",
+      "size": 70533388,
+      "type": "zip"
+    },
+    {
       "url": "releases/0.1.39/0de01254bfcdf1e35144f99ec3dd4771c71abc735e363787fc95c3ea2feac24c.zip",
       "sha256": "0de01254bfcdf1e35144f99ec3dd4771c71abc735e363787fc95c3ea2feac24c",
       "version": "0.1.39",
